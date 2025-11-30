@@ -1,27 +1,34 @@
-Human-rights-activist is a project aimed at creating a platform that supports human rights. It provides information and resources useful for activists, organizations, and individuals interested in promoting human rights and defending civil liberties worldwide.
+# 🧑‍🤝‍🧑 Human-rights-activist
 
-🔑 Key Features
+**Human-rights-activist** is a platform aimed at supporting human rights, built with **HTML**, **CSS**, and **JavaScript**. It provides information and resources for activists, organizations, and individuals interested in human rights advocacy.
 
-🧑‍🤝‍🧑 Human Rights Advocacy: Information about human rights organizations, campaigns, and actions focused on defending human rights.
+---
 
-🖥️ Responsive Design: The website is optimized for mobile devices, tablets, and desktops, ensuring accessibility across all platforms.
+## 🚀 Features
 
-🛠️ Technologies Used
+- 🧑‍🤝‍🧑 **Human Rights Advocacy**: Information about human rights organizations, campaigns, and actions focused on defending human rights.
+- 📱 **Responsive Design**: The website is optimized for mobile devices, tablets, and desktops, ensuring accessibility across all platforms.
+- ✨ **Interactive Elements**: JavaScript enables dynamic features to improve user engagement.
 
-This project uses the following technologies:
+---
 
-HTML, CSS: For structuring and styling the pages.
+## 🔧 Tech Stack
 
-JavaScript: To enable interactive features on the website.
+| Technology | Purpose |
+|------------|----------------------------------|
+| HTML | Page structure & content |
+| CSS | Styling and layout |
+| JavaScript | Interactivity & dynamic elements |
 
-Responsive Design: Ensures the website works seamlessly across all devices.
+---
 
-🚀 Installation and Usage
+## 📥 How to Use
 
-Clone the repository:
-
-Copy code
-
+### 1. Clone the repository
+```bash
 git clone https://github.com/ZozuliaMykyta/human-rights-activist.git
+cd human-rights-activist
+```
 
-Open the index.html file in your browser to view the website.
+### 2. View the project
+Open the `index.html` file in your web browser to view the site.
